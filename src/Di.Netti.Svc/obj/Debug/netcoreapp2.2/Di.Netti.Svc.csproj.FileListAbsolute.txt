@@ -1,0 +1,14 @@
+C:\renan\di-netti\src\Di.Netti.Svc\obj\Debug\netcoreapp2.2\Di.Netti.Svc.csproj.CoreCompileInputs.cache
+C:\renan\di-netti\src\Di.Netti.Svc\obj\Debug\netcoreapp2.2\Di.Netti.Svc.AssemblyInfoInputs.cache
+C:\renan\di-netti\src\Di.Netti.Svc\obj\Debug\netcoreapp2.2\Di.Netti.Svc.AssemblyInfo.cs
+C:\renan\di-netti\src\Di.Netti.Svc\bin\Debug\netcoreapp2.2\Di.Netti.Svc.deps.json
+C:\renan\di-netti\src\Di.Netti.Svc\bin\Debug\netcoreapp2.2\Di.Netti.Svc.runtimeconfig.json
+C:\renan\di-netti\src\Di.Netti.Svc\bin\Debug\netcoreapp2.2\Di.Netti.Svc.runtimeconfig.dev.json
+C:\renan\di-netti\src\Di.Netti.Svc\bin\Debug\netcoreapp2.2\Di.Netti.Svc.dll
+C:\renan\di-netti\src\Di.Netti.Svc\bin\Debug\netcoreapp2.2\Di.Netti.Svc.pdb
+C:\renan\di-netti\src\Di.Netti.Svc\obj\Debug\netcoreapp2.2\Di.Netti.Svc.csprojAssemblyReference.cache
+C:\renan\di-netti\src\Di.Netti.Svc\obj\Debug\netcoreapp2.2\Di.Netti.Svc.RazorAssemblyInfo.cache
+C:\renan\di-netti\src\Di.Netti.Svc\obj\Debug\netcoreapp2.2\Di.Netti.Svc.RazorAssemblyInfo.cs
+C:\renan\di-netti\src\Di.Netti.Svc\obj\Debug\netcoreapp2.2\Di.Netti.Svc.RazorTargetAssemblyInfo.cache
+C:\renan\di-netti\src\Di.Netti.Svc\obj\Debug\netcoreapp2.2\Di.Netti.Svc.dll
+C:\renan\di-netti\src\Di.Netti.Svc\obj\Debug\netcoreapp2.2\Di.Netti.Svc.pdb
